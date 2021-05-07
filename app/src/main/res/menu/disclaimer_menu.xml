@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_baseline_pan_tool_24"
+        android:title="Disclaimer"
+        android:id="@+id/disclaimer"
+        app:showAsAction="ifRoom">
+
+        <menu>
+            <item android:id="@+id/itemd"
+                android:title="Disclaimer"/>
+        </menu>
+
+    </item>
+
+
+
+</menu>
