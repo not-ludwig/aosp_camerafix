@@ -1,6 +1,9 @@
 # aosp_camerafix
 
 Camera Fix for AOSP ROMS, Tested on SAMSUNG N920T.
+AOSP = Android Open Source Project
+
+Fix for when the camera suddenly stops working or displays an all red/gray/black background. 
 
 Should work on all devices of similar kind ROOTED WITH MAGISK.
 I do not claim responsability for any damage or lost data. Use at your own risk.
