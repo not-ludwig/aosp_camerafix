@@ -14,4 +14,4 @@ Fix for when the camera suddenly stops working or displays an all green/gray/bla
 
  - Go to the apk folder and download the .apk file.
 
-![Screenshot](https://github.com/md5-loki/aosp_camerafix/blob/master/apk/sc1.jpg)
+![Screenshot](https://github.com/md5-loki/aosp_camerafix/blob/master/apk/sc1.png)
