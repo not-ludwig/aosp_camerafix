@@ -1,4 +1,4 @@
-# aosp_camerafix
+# AOSP Camera Fix
 
 Camera Fix for AOSP ROMS, Tested on SAMSUNG N920T.
 
